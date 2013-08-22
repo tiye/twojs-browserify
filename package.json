@@ -1,0 +1,33 @@
+{
+  "name": "twojs-browserify",
+  "version": "0.2.0",
+  "description": "A browserified two-dimensional drawing api meant for modern browsers.",
+  "main": "two.clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiyinyiyong/twojs-browserify.git"
+  },
+  "keywords": [
+    "dom",
+    "w3c",
+    "visualization",
+    "svg",
+    "animation",
+    "canvas2d",
+    "webgl",
+    "rendering",
+    "motiongraphics",
+    "twojs"
+  ],
+  "author": "jonobr1, jiyinyiyong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiyinyiyong/twojs-browserify/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.5.1"
+  }
+}
